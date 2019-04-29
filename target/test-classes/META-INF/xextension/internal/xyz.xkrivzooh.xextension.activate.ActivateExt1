@@ -1,5 +1,0 @@
-group=xyz.xkrivzooh.xextension.activate.impl.GroupActivateExtImpl
-value=xyz.xkrivzooh.xextension.activate.impl.ValueActivateExtImpl
-order1=xyz.xkrivzooh.xextension.activate.impl.OrderActivateExtImpl1
-order2=xyz.xkrivzooh.xextension.activate.impl.OrderActivateExtImpl2
-impl1=xyz.xkrivzooh.xextension.activate.impl.ActivateExt1Impl1
