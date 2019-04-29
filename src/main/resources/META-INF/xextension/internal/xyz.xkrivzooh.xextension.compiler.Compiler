@@ -1,0 +1,3 @@
+adaptive=xyz.xkrivzooh.xextension.compiler.AdaptiveCompiler
+jdk=xyz.xkrivzooh.xextension.compiler.support.JdkCompiler
+javassist=xyz.xkrivzooh.xextension.compiler.support.JavassistCompiler

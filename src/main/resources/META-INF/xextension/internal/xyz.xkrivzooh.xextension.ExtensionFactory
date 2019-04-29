@@ -1,0 +1,2 @@
+adaptive=xyz.xkrivzooh.xextension.AdaptiveExtensionFactory
+spi=xyz.xkrivzooh.xextension.SpiExtensionFactory

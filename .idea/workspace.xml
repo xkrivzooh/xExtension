@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84b0030c-285c-469f-84ed-3a9ccd836fca" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ExtensionLoaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/NoSpiExt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/Compiler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/AdaptiveCompiler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/support/CtClassBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="63">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.alibaba.dubbo.common.extension.Activate</find>
+      <find>lruca</find>
+      <find>org.apache.dubbo.common.extension.Activate</find>
+      <find>SimpleExt</find>
+      <find>xyz.xkrivzooh.ext1.impl</find>
+      <find>org.apache.dubbo.common.extension.ext6_wrap.impl</find>
+      <find>test_getSupportedExtensions_wrapperIsNotExt</find>
+      <find>name</find>
+      <find>xyz.xkrivzooh.ext7.impl</find>
+      <find>injection</find>
+      <find>InjectExt</find>
+      <find>org.apache.dubbo.common.extension.compatible</find>
+      <find>org.apache.dubbo.common.extension</find>
+      <find>org.apache.dubbo.common.extension.support</find>
+      <find>xyz.xkrivzooh.xextension.activate</find>
+      <find>DUBBO_INTERNAL_DIRECTORY</find>
+      <find>SERVICES_DIRECTORY</find>
+      <find>old_group</find>
+      <find>SPI</find>
+      <find>findAnnotationName</find>
+      <find>ActivateExt1Impl1</find>
+      <find>group</find>
+      <find>URL</find>
+      <find>dubb</find>
+      <find>dubbo</find>
+      <find>rpc</find>
+      <find>hasInvocation</find>
+      <find>invocation</find>
+      <find>apache</find>
+      <find>getProtocol()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>xyz.xkrivzooh.ext6_wrap.impl</replace>
+      <replace>xyz.xkrivzooh.compatible</replace>
+      <replace>xyz.xkrivzooh</replace>
+      <replace>xyz.xkrivzooh.support</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.ext6_wrap.WrappedExt" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.ext8_add.AddExt1" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.ext7.InitErrorExt" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/ExtensionLoader.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/ExtensionLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.injection.InjectExt" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/dubbo/internal/xyz.xkrivzooh.Compiler" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/utils/ClassUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/compiler/support/AbstractCompiler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/compiler/support/CtClassBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/compiler/support/JavassistCompiler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/compiler/support/JdkCompiler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/Compiler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/dubbo/internal/xyz.xkrivzooh.xextension.compiler.Compiler" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.activate.ActivateExt1" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.compatible.CompatibleExt" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.ext6_inject.Ext6" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.ext3.UseProtocolKeyExt" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.ext2.Ext2" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.adaptive.HasAdaptiveExt" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/ExtensionLoader_Adaptive_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.support.Filter0" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/activate/impl/OrderActivateExtImpl2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ext1/impl/SimpleExtImpl1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ext1/SimpleExt.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ext2/Ext2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ext6_wrap/WrappedExt.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ExtensionLoader_Compatible_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/dubbo/internal/xyz.xkrivzooh.xextension.activate.ActivateExt1" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/support/ActivateComparatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.support.Filter0" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ExtensionLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/ActivateComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/Extension.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.compatible.CompatibleExt" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/compatible/impl/CompatibleExtImpl1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/activate/impl/ActivateExt1Impl1.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.activate.ActivateExt1" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/Activate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/SPI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ext7/InitErrorExt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/AbstractPrefixConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/ConfigUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/ExtensionLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/NetUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/CollectionUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/AdaptiveClassCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/URL.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="51" />
+    <option name="y" value="23" />
+    <option name="width" value="1389" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xExtension" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xExtension" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="xyz.xkrivzooh" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF/dubbo/internal" />
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="xyz.xkrivzooh.xextension" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/xyz/xkrivzooh" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ExtensionLoaderTest">
+    <configuration name="ExtensionLoaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.xkrivzooh.xextension.compiler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyz.xkrivzooh.xextension" />
+      <option name="MAIN_CLASS_NAME" value="xyz.xkrivzooh.xextension.ExtensionLoaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtensionLoader_Adaptive_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.xkrivzooh.xextension.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyz.xkrivzooh.xextension" />
+      <option name="MAIN_CLASS_NAME" value="xyz.xkrivzooh.xextension.ExtensionLoader_Adaptive_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtensionLoader_Adaptive_Test.test_getAdaptiveExtension_protocolKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.xkrivzooh.xextension.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyz.xkrivzooh.xextension" />
+      <option name="MAIN_CLASS_NAME" value="xyz.xkrivzooh.xextension.ExtensionLoader_Adaptive_Test" />
+      <option name="METHOD_NAME" value="test_getAdaptiveExtension_protocolKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtensionLoader_Adaptive_UseJdkCompiler_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.xkrivzooh.xextension.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyz.xkrivzooh.xextension" />
+      <option name="MAIN_CLASS_NAME" value="xyz.xkrivzooh.xextension.ExtensionLoader_Adaptive_UseJdkCompiler_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtensionLoader_Compatible_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xExtension" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.xkrivzooh.xextension.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyz.xkrivzooh.xextension" />
+      <option name="MAIN_CLASS_NAME" value="xyz.xkrivzooh.xextension.ExtensionLoader_Compatible_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExtensionLoaderTest" />
+        <item itemvalue="JUnit.ExtensionLoader_Compatible_Test" />
+        <item itemvalue="JUnit.ExtensionLoader_Adaptive_UseJdkCompiler_Test" />
+        <item itemvalue="JUnit.ExtensionLoader_Adaptive_Test" />
+        <item itemvalue="JUnit.ExtensionLoader_Adaptive_Test.test_getAdaptiveExtension_protocolKey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84b0030c-285c-469f-84ed-3a9ccd836fca" name="Default Changelist" comment="" />
+      <created>1556272591166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556272591166</updated>
+      <workItem from="1556272592398" duration="8782000" />
+      <workItem from="1556425630755" duration="4703000" />
+      <workItem from="1556465685490" duration="2425000" />
+      <workItem from="1556468126635" duration="2734000" />
+      <workItem from="1556532772839" duration="4913000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ExtensionLoaderTest - 2019.04.29 at 19h 28m 50s.xml">
+      <configuration name="ExtensionLoaderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExtensionLoaderTest - 2019.04.29 at 19h 31m 36s.xml">
+      <configuration name="ExtensionLoaderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExtensionLoader_Compatible_Test - 2019.04.29 at 19h 31m 39s.xml">
+      <configuration name="ExtensionLoader_Compatible_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExtensionLoader_Adaptive_UseJdkCompiler_Test - 2019.04.29 at 19h 31m 43s.xml">
+      <configuration name="ExtensionLoader_Adaptive_UseJdkCompiler_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExtensionLoader_Adaptive_Test_test_getAdaptiveExtension_protocolKey - 2019.04.29 at 19h 31m 54s.xml">
+      <configuration name="ExtensionLoader_Adaptive_Test.test_getAdaptiveExtension_protocolKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExtensionLoader_Adaptive_Test_test_getAdaptiveExtension_protocolKey - 2019.04.29 at 19h 32m 51s.xml">
+      <configuration name="ExtensionLoader_Adaptive_Test.test_getAdaptiveExtension_protocolKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExtensionLoader_Adaptive_Test - 2019.04.29 at 19h 33m 10s.xml">
+      <configuration name="ExtensionLoader_Adaptive_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExtensionLoader_Adaptive_UseJdkCompiler_Test - 2019.04.29 at 19h 33m 17s.xml">
+      <configuration name="ExtensionLoader_Adaptive_UseJdkCompiler_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExtensionLoader_Compatible_Test - 2019.04.29 at 19h 33m 23s.xml">
+      <configuration name="ExtensionLoader_Compatible_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExtensionLoaderTest - 2019.04.29 at 19h 33m 28s.xml">
+      <configuration name="ExtensionLoaderTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23557000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="51" y="23" width="1869" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2658228" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.44186047" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48942918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5792812" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32980973" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="10" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32875264" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32834706" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3296643" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2658228" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.44186047" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48942918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5792812" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32980973" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="10" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32875264" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32834706" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3296643" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>line.contains(&quot;xyz.xkrivzooh.ext7.impl.Ext7InitErrorImpl&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>e.getMessage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ExtensionLoader.getExtensionLoader(ActivateExt1.class).getAdaptiveExtension().echo(&quot;asda&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ExtensionLoader.getExtensionLoader(ActivateExt1.class).getAdaptiveExtension()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ExtensionLoader.getExtensionLoader(ActivateExt1.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Class.forName(line, true, classLoader)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>classLoader</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>line</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Class.forName(line, false, classLoader)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>type.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/Extension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/adaptive/HasAdaptiveExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/activate/ActivateExt1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.adaptive.HasAdaptiveExt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.compatible.CompatibleExt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.ext1.SimpleExt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.ext2.Ext2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.ext3.UseProtocolKeyExt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.ext6_inject.Ext6">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.support.Filter0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.injection.InjectExt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.ext9_empty.Ext9Empty">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.ext8_add.AddExt1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.ext7.InitErrorExt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.ext6_wrap.WrappedExt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/activate/impl/ActivateExt1Impl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/SPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="27" column="88" selection-start-line="27" selection-start-column="88" selection-end-line="27" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/xextension/internal/xyz.xkrivzooh.xextension.activate.ActivateExt1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/activate/impl/ValueActivateExtImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/activate/impl/OrderActivateExtImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/activate/impl/OrderActivateExtImpl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/activate/impl/GroupActivateExtImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1447" column="19" selection-start-line="1447" selection-start-column="19" selection-end-line="1447" selection-end-column="19" />
+          <folding>
+            <element signature="e#56437#56438#0" expanded="true" />
+            <element signature="e#56514#56515#0" expanded="true" />
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/Activate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="51" column="39" lean-forward="true" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/CIDRUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/Jsons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="872">
+          <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/ReflectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2546">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/NetUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/ConfigUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/CollectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3080">
+          <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/ClassUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/utils/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/AdaptiveClassCodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="268" column="72" selection-start-line="268" selection-start-column="72" selection-end-line="268" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/support/JdkCompiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/support/AbstractCompiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/support/JavassistCompiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/ExtensionLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13411">
+          <caret line="779" column="9" lean-forward="true" selection-start-line="779" selection-start-column="9" selection-end-line="779" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/ClassHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+          <folding>
+            <element signature="e#8188#8189#0" expanded="true" />
+            <element signature="e#8219#8220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ExtensionLoader_Adaptive_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ExtensionLoader_Adaptive_UseJdkCompiler_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ExtensionLoader_Compatible_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="7" column="67" lean-forward="true" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/ExtensionLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/xkrivzooh/xextension/NoSpiExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/Compiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/AdaptiveCompiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/xkrivzooh/xextension/compiler/support/CtClassBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="63">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xExtension</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean" />
+    <option value="test" />
+  </component>
+</project>
